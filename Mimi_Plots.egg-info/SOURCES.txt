@@ -1,0 +1,8 @@
+setup.py
+Mimi_Plots.egg-info/PKG-INFO
+Mimi_Plots.egg-info/SOURCES.txt
+Mimi_Plots.egg-info/dependency_links.txt
+Mimi_Plots.egg-info/requires.txt
+Mimi_Plots.egg-info/top_level.txt
+latex_plots/__init__.py
+latex_plots/prettyplot.py
